@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainPage.xaml](./CS/SidebySideRangeBar/MainPage.xaml) (VB: [MainPage.xaml](./VB/SidebySideRangeBar/MainPage.xaml))
+<!-- default file list end -->
 # How to create a 2D Side-by-Side Range Bar chart
 
 
